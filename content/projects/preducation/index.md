@@ -3,8 +3,7 @@ title: Preducation
 externalUrl: https://preducationproject.com
 date: "2023-07-28"
 draft: "false"
-menu: featured
-weight: 18
+weight: 22
 images:
   - thumb: https://personal-k8s-main-space.nyc3.cdn.digitaloceanspaces.com/thecodeboss.dev/projects/preducation/thumbnail/1-icon.jpeg
     full: https://personal-k8s-main-space.nyc3.cdn.digitaloceanspaces.com/thecodeboss.dev/projects/preducation/full/1-icon.jpeg
